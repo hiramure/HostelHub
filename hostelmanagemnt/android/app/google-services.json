@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "756804635608",
+    "project_id": "hostelmanager-33a8c",
+    "storage_bucket": "hostelmanager-33a8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756804635608:android:e588f2fd4ebd5e2eab40ad",
+        "android_client_info": {
+          "package_name": "com.example.hostelmanagemnt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHJltrHQPDBYUuc0EwOkPUIwZLjACGxXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

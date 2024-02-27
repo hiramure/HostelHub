@@ -1,0 +1,107 @@
+name: hostelmanagemnt
+description: "A new Flutter project."
+
+
+publish_to: 'none'
+
+
+
+
+
+
+
+
+
+
+
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.3 <4.0.0'
+
+
+
+
+
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  smooth_page_indicator: ^1.1.0
+  lottie: ^3.0.0
+  firebase_core: ^2.24.2
+
+  google_fonts: ^6.1.0
+  firebase_auth: ^4.16.0
+  fluttertoast: ^8.2.4
+  cloud_firestore: ^4.14.0
+  get: ^4.6.6
+  flutter_native_splash: ^2.3.9
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+
+#flutter_native_splash:
+#  color: "#ffffff"
+#  image: assets/images/splash_screen.png
+#  android_12:
+#    image: assets/images/splash_screen.png
+#    icon_background_color: "#ffffff"
+
+
+
+
+flutter:
+
+  
+  uses-material-design: true
+  assets:
+    - assets/images/Welcome_image.jpeg
+    - assets/images/login_image.jpeg
+    - assets/images/Signup_image.jpeg
+    - assets/images/notice.jpeg
+    - assets/images/student_detail.jpeg
+    - assets/images/anouncement.jpeg
+    - assets/images/background1.jpeg
+    - assets/images/student_mange.jpeg
+    - assets/images/student_manage3.jpeg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+assets/images/student_manage2:
+  jpeg:
